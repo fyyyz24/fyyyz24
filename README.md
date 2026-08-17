@@ -12,13 +12,13 @@
 
 </div>
   
-🌱 Hi, I'm Yunzhan Fu (傅允湛), an undergraduate student major in Computer Science and Technology at src="https://github.com/user-attachments/assets/49def03c-2f58-4c37-88d8-edb2c7ea9e9f" style="width: 1em;"> [Hangzhou Dianzi University](https://www.hdu.edu.cn/main.htm). 
+🌱 Hi, I'm Yunzhan Fu (傅允湛), an undergraduate student major in Computer Science and Technology at [Hangzhou Dianzi University](https://www.hdu.edu.cn/main.htm). 
 
 🔭 I'm currently focused on **Medical AI**, **Image Processing**, and **Multimodal Fusion**.
 
 🔖 Academic Services: Conference Reviewers of **ACM MM** <sub>[2026](https://2026.acmmm.org/)</sub>, **MICCAI**<sub>[2026](https://conferences.miccai.org/2026/en/default.asp)</sub>, **ICME**<sub>[2026](https://2026.ieeeicme.org/)</sub>.
 
-🧑‍🤝‍🧑 Academic Communities: [**IEEE**](https://www.ieee.org/), [**AAAI**](https://aaai.org/), [**MICCAI**](https://miccai.org/), [**CAAI**](https://www.caai.cn/), [**CSIG**](https://www.csig.org.cn), [**ZCF**](http://zcfcia.org.cn/).
+🧑‍🤝‍🧑 Academic Communities: [**IEEE**](https://www.ieee.org/), [**AAAI**](https://aaai.org/), [**MICCAI**](https://miccai.org/).
 
 📫 How to reach me: [yunzhanfu@hdu.edu.cn](mailto:yunzhanfu@hdu.edu.cn).
 
