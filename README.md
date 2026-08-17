@@ -21,7 +21,7 @@
 
 🔭 I'm currently focused on **Medical AI**, **Image Processing**, and **Multimodal Fusion**.
 
-🔖 Academic Services: Conference Reviewers of **ACM MM**<sub>[2026](https://2026.acmmm.org/), **MICCAI**<sub>[2026](https://conferences.miccai.org/2026/en/default.asp)</sub>, **ICME**<sub>[2026](https://2026.ieeeicme.org/)</sub>.
+🔖 Academic Services: Conference Reviewers of **ACM MM**<sub>[2026](https://2026.acmmm.org/)<sub>, **MICCAI**<sub>[2026](https://conferences.miccai.org/2026/en/default.asp)</sub>, **ICME**<sub>[2026](https://2026.ieeeicme.org/)</sub>.
 
 🧑‍🤝‍🧑 Academic Communities: [**IEEE**](https://www.ieee.org/), [**AAAI**](https://aaai.org/), [**MICCAI**](https://miccai.org/), [**CAAI**](https://www.caai.cn/), [**CSIG**](https://www.csig.org.cn), [**ZCF**](http://zcfcia.org.cn/).
 
